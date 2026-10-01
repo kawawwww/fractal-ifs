@@ -1,5 +1,7 @@
 # fractal-ifs
 
+English | [日本語](README.ja.md)
+
 Random-search generation of IFS (Iterated Function System) fractal images,
 based on the FractalDB parameter search
 ([hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch](https://github.com/hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch)).
